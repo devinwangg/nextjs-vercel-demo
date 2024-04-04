@@ -1,5 +1,3 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
 ## Getting Started
 
 First, run the development server:
@@ -27,5 +25,3 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
        npx create-next-app@latest
    ```
 2. open the vercel webpage and login or register the vercel account
-# nextjs-vercel-demo
-# nextjs-vercel-demo
